@@ -9,4 +9,4 @@ def printCycle(a):
         if a == 10:
             break
 
-printCycle(1)
+printCycle(5)
